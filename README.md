@@ -3,7 +3,6 @@
 
 <!-- **abhiGambhir0914/abhiGambhir0914** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently studying Masters of Data Science from Monash University, Australia.
 - 🌱 I’m currently learning on Price Optimization Problems.

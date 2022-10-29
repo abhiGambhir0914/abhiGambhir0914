@@ -12,10 +12,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: Happiness if when...your code runs without error. 
 
 
-## ⏳ My Stats
+<!-- ## ⏳ My Stats
 
 ![My github stats](https://github-readme-stats.vercel.app/api?username=abhiGambhir0914&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&hide=issues)
 
 ## 💕 My Top Languages
 
 ![My Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&username=abhiGambhir0914)
+ -->

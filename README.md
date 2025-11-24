@@ -4,11 +4,11 @@
 <!-- **abhiGambhir0914/abhiGambhir0914** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 
-- 🔭 I’m currently studying Masters of Data Science from Monash University, Australia.
-- 🌱 I’m currently learning on Price Optimization Problems.
-- 👯 I’m looking to collaborate on ML projects.
-- 💬 Ask me anything tech related.
-- ⚡ Fun fact: Happiness if when...your code runs without error. 
+I’m a Data Scientist working in retail, passionate about turning data into actionable insights and building smart, scalable ML solutions that make a real difference. I thrive on blending data science with engineering to solve complex problems and help businesses stay ahead.
+
+Outside of work, I’m diving into the fascinating world of Generative AI, Large Language Models (LLM), and all things AI innovation. Always eager to learn, share, and collaborate.
+
+If you want to chat about AI, machine learning, or just catch up over coffee, I’m all ears—happy to connect!
 
 
 <!-- ## ⏳ My Stats
